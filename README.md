@@ -12,10 +12,21 @@ As a grid-independent approach for solving partial differential equations (PDEs)
 
 ## Environment Installation
 ```
-numpy==1.21.6
-..
+numpy==1.26.4
+torch==2.0.1
+scipy==1.13.1
+matplotlib==3.3.4
 ```
-## Train
+## Train Allen-Cahn:
+
+Forward PDE Problem:
+```
+bash python Allen-Cahn_FPINNs_Forward.py
+```
+Inverse PDE Problem:
+```
+bash python Allen-Cahn_FPINNs_Inverse.py
+```
 
 ## Citation
 ```
