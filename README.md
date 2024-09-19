@@ -34,4 +34,4 @@ python Allen-Cahn_FPINNs_Inverse.py
 ```
 
 ## Acknowledgement
-The code is inspired by [Physics-Informed-Neural-Networks]([https://github.com/QingyangZhang/QMF](https://github.com/omniscientoctopus/Physics-Informed-Neural-Networks)).
+The code is inspired by [Physics-Informed-Neural-Networks]([https://github.com/QingyangZhang/QMF](https://github.com/omniscientoctopus/Physics-Informed-Neural-Networks).
