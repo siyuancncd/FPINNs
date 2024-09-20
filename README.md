@@ -12,8 +12,10 @@ As a grid-independent approach for solving partial differential equations (PDEs)
 </p>
 
 ## Result
-Performance comparison in terms of mAP scores on the AC dataset. The highest score is shown in boldface.
-
+Performance comparison on the AC dataset. The highest score is shown in boldface.
+<p align="center">
+<img src="https://github.com/siyuancncd/FPINNs/blob/main/AC_results.png" width="850" height="500">
+</p>
 
 ## Environment Installation
 ```
