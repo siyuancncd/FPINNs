@@ -8,7 +8,7 @@ As a grid-independent approach for solving partial differential equations (PDEs)
 
 ## Framework
 <p align="center">
-<img src="https://github.com/siyuancncd/FPINNs/blob/main/FPINN.png" width="850" height="500">
+<img src="https://github.com/siyuancncd/FPINNs/blob/main/FPINN.png" width="850" height="550">
 </p>
 
 ## Result
