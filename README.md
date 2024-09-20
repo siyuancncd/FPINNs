@@ -14,7 +14,7 @@ As a grid-independent approach for solving partial differential equations (PDEs)
 ## Result
 Performance comparison on the AC dataset. The highest score is shown in boldface.
 <p align="center">
-<img src="https://github.com/siyuancncd/FPINNs/blob/main/AC_results.png" width="850" height="180">
+<img src="https://github.com/siyuancncd/FPINNs/blob/main/AC_results.png" width="850" height="210">
 </p>
 
 ## Environment Installation
