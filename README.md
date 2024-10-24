@@ -38,11 +38,12 @@ python Allen-Cahn_FPINNs_Inverse.py
 ## Citation
 If you find FPINNs useful in your research, please consider citing:
 ```
-@article{WU2024106750,
+@article{WU2025106750,
 title = {Deep fuzzy physics-informed neural networks for forward and inverse PDE problems},
 journal = {Neural Networks},
+volume = {181},
 pages = {106750},
-year = {2024},
+year = {2025},
 issn = {0893-6080},
 doi = {https://doi.org/10.1016/j.neunet.2024.106750},
 url = {https://www.sciencedirect.com/science/article/pii/S0893608024006749},
