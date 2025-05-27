@@ -1,7 +1,7 @@
 # FPINNs
 
 This is the official implementation of "Deep Fuzzy Physics-Informed Neural Networks for Forward and Inverse PDE Problems"
- (Neural Networks 2024) by Wenyuan Wu<sup>1</sup>, Siyuan Duan<sup>1</sup>, Yuan Sun, Yang Yu, Dong Liu and Dezhong Peng. (<sup>1</sup>denotes equal contribution, PyTorch Code)
+ (Neural Networks 2025) by Wenyuan Wu<sup>1</sup>, Siyuan Duan<sup>1</sup>, Yuan Sun, Yang Yu, Dong Liu and Dezhong Peng. (<sup>1</sup>denotes equal contribution, PyTorch Code)
 
 ##
 :bangbang: **I’m actively seeking a PhD position for Fall 2026 entry.** If you believe my background aligns with your research needs, please feel free to contact me via email at siyuanduancn@gmail.com.
