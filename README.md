@@ -51,7 +51,10 @@ author = {Wenyuan Wu and Siyuan Duan and Yuan Sun and Yang Yu and Dong Liu and D
 }
 ```
 ## Question?
-For any questions, feel free to email siyuancncd AT gmail DOT com.
+If you have any questions, please email:
+* sunyuan_work@163.com (Yuan Sun);
+* wuwenyuan97@gmail.com (Wenyuan Wu);
+* siyuanduancn@gmail.com (Siyuan Duan).
 
 ## Acknowledgement
 The code is inspired by [Physics-Informed-Neural-Networks](https://github.com/omniscientoctopus/Physics-Informed-Neural-Networks).
