@@ -1,6 +1,6 @@
 # FPINNs
 
-This is the official implementation of "Deep Fuzzy Physics-Informed Neural Networks for Forward and Inverse PDE Problems."
+This is the official implementation of "[Deep Fuzzy Physics-Informed Neural Networks for Forward and Inverse PDE Problems](https://www.sciencedirect.com/science/article/pii/S0893608024006749)"
  (Neural Networks 2025) by Wenyuan Wu<sup>1</sup>, Siyuan Duan<sup>1</sup>, Yuan Sun, Yang Yu, Dong Liu# and Dezhong Peng#. (<sup>1</sup>denotes equal contribution, PyTorch Code)
 
 ## Report：
