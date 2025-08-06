@@ -7,9 +7,6 @@ This is the official implementation of "[Deep Fuzzy Physics-Informed Neural Netw
 
 [中文报道](https://mp.weixin.qq.com/s/J_UTQvRlSGxl9VH4ctk2Og)
 
-##
-:bangbang: **Siyuan Duan is actively seeking a PhD position for Fall 2026 entry.** If you believe his background aligns with your research needs, please feel free to contact him via email at siyuanduancn@gmail.com.
-
 ## Abstract
 As a grid-independent approach for solving partial differential equations (PDEs), Physics-Informed Neural Networks (PINNs) have garnered significant attention due to their unique capability to simultaneously learn from both data and the governing physical equations. Existing PINNs methods always assume that the data is stable and reliable, but data obtained from commercial simulation software often inevitably has ambiguous and inaccurate problems. Obviously, this will have a negative impact on the use of PINNs to solve forward and inverse PDE problems. To overcome the above problems, this paper proposes a Deep Fuzzy Physics-Informed Neural Networks (FPINNs) that explores the uncertainty in data. Specifically, to capture the uncertainty behind the data, FPINNs learns fuzzy representation through the fuzzy membership function layer and fuzzy rule layer. Afterward, we use deep neural networks to learn a neural representation. Subsequently, the fuzzy representation is integrated with the neural representation. Finally, the residual of the physical equation and the data error are considered as the two components of the loss function, guiding the network to optimize towards adherence to the physical laws for accurate prediction of the physical field. Extensive experiment results show that FPINN outperforms these comparative methods in solving forward and inverse PDE problems on four widely used datasets.
 ## Framework
