@@ -51,6 +51,15 @@ issn = {0893-6080},
 author = {Wenyuan Wu and Siyuan Duan and Yuan Sun and Yang Yu and Dong Liu and Dezhong Peng},
 }
 ```
+
+```
+@inproceedings{duancopinn,
+  title={CoPINN: Cognitive Physics-Informed Neural Networks},
+  author={Duan, Siyuan and Wu, Wenyuan and Hu, Peng and Ren, Zhenwen and Peng, Dezhong and Sun, Yuan},
+  booktitle={Forty-second International Conference on Machine Learning}
+}
+```
+
 ## Question?
 If you have any questions, please email:
 * sunyuan_work@163.com (Yuan Sun);
